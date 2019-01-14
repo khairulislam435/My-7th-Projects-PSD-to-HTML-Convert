@@ -1,0 +1,64 @@
+@font-face {
+    src: url("../fonts/Raleway-Regular.ttf");
+    font-family: bitm;
+}
+
+.font-bitm{ font-family: bitm; }
+
+.my-caption{ bottom: 35%; }
+
+.line{
+    width: 40%;
+    background-color: grey;
+    height: 2px;
+}
+
+.line2 {
+    width: 40%;
+    background-color: #c7b299 ;
+    height: 2px;
+}
+
+.counter-line{
+    width: 50px;
+    background-color: gray;
+    height: 2px;
+}
+
+.left, .right {
+
+    cursor: pointer;
+}
+
+.bg-section{
+    background-image: url("../img/Background.png");
+}
+
+.bg-countdown{
+    background-image: url("../img/coundown.png");
+}
+/* count up plugin*/
+
+.counter{
+    margin:1.5% 2%;
+    font-size:50px;
+    width: 150px;
+}
+
+/* count up plugin*/
+
+
+/*recent post
+----------------------------*/
+
+.back-image{
+    background-image: url("../img/back-image.png");
+   background-size: 100% 100%;
+    padding: 100px;
+}
+
+.footer-line{
+    width: 100%;
+    height: 1px;
+    background-color: grey;
+}
